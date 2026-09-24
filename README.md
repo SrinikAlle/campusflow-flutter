@@ -2,6 +2,10 @@
 
 CampusFlow is a clean Flutter student-productivity app designed to keep academics in one place.
 
+## UI Preview
+
+![CampusFlow app preview](assets/campusflow-preview.svg)
+
 ## Features
 
 - Dashboard with academic overview
@@ -82,7 +86,7 @@ study_sessions/{sessionId}
 
 ## Current Status
 
-The current version is a polished portfolio-ready frontend with local demo data. Firebase integration is prepared but not enabled by default, so the repository remains easy to run and review.
+The current version is a portfolio-ready frontend with local demo data. Firebase integration is prepared but not enabled by default.
 
 ## Author
 

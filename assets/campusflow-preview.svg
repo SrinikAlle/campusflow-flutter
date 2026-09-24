@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fbfc"/><stop offset="1" stop-color="#eaf2f4"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#24444f" flood-opacity=".16"/></filter>
+</defs>
+<rect width="1200" height="720" fill="url(#bg)"/>
+<circle cx="1100" cy="40" r="180" fill="#dceff2"/>
+<text x="58" y="72" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#17343d">CampusFlow</text>
+<text x="58" y="102" font-family="Arial,sans-serif" font-size="16" fill="#6d828a">Flutter student productivity workspace</text>
+
+<g filter="url(#shadow)">
+  <rect x="70" y="140" width="300" height="520" rx="30" fill="#ffffff" stroke="#dce6e9"/>
+  <rect x="86" y="156" width="268" height="488" rx="22" fill="#f7f9fb"/>
+  <rect x="176" y="156" width="88" height="18" rx="0 0 12 12" fill="#19343d"/>
+  <text x="108" y="205" font-family="Arial" font-size="12" fill="#71868e">Good morning, Srinik</text>
+  <text x="108" y="236" font-family="Arial" font-size="24" font-weight="700" fill="#223b44">Academic overview</text>
+  <g>
+    <rect x="108" y="258" width="104" height="92" rx="14" fill="#fff" stroke="#e2eaed"/>
+    <rect x="224" y="258" width="104" height="92" rx="14" fill="#fff" stroke="#e2eaed"/>
+    <rect x="108" y="362" width="104" height="92" rx="14" fill="#fff" stroke="#e2eaed"/>
+    <rect x="224" y="362" width="104" height="92" rx="14" fill="#fff" stroke="#e2eaed"/>
+    <text x="122" y="292" font-family="Arial" font-size="12" fill="#176b87">SUBJECTS</text><text x="122" y="325" font-family="Arial" font-size="26" font-weight="700" fill="#213941">6</text>
+    <text x="238" y="292" font-family="Arial" font-size="12" fill="#176b87">TASKS DUE</text><text x="238" y="325" font-family="Arial" font-size="26" font-weight="700" fill="#213941">4</text>
+    <text x="122" y="396" font-family="Arial" font-size="12" fill="#176b87">ATTENDANCE</text><text x="122" y="429" font-family="Arial" font-size="26" font-weight="700" fill="#213941">84%</text>
+    <text x="238" y="396" font-family="Arial" font-size="12" fill="#176b87">FOCUS</text><text x="238" y="429" font-family="Arial" font-size="26" font-weight="700" fill="#213941">52m</text>
+  </g>
+  <rect x="108" y="472" width="220" height="126" rx="14" fill="#fff" stroke="#e2eaed"/>
+  <text x="122" y="499" font-family="Arial" font-size="15" font-weight="700" fill="#263f47">Today</text>
+  <text x="122" y="532" font-family="Arial" font-size="11" font-weight="700" fill="#263f47">09:30</text>
+  <rect x="166" y="518" width="4" height="30" rx="2" fill="#176b87"/>
+  <text x="182" y="530" font-family="Arial" font-size="11" font-weight="700" fill="#263f47">Data Mining</text>
+  <text x="182" y="543" font-family="Arial" font-size="9" fill="#82959c">Room 302</text>
+  <text x="122" y="570" font-family="Arial" font-size="11" font-weight="700" fill="#263f47">11:15</text>
+  <rect x="166" y="556" width="4" height="30" rx="2" fill="#176b87"/>
+  <text x="182" y="568" font-family="Arial" font-size="11" font-weight="700" fill="#263f47">AI Lab</text>
+  <text x="182" y="581" font-family="Arial" font-size="9" fill="#82959c">Lab 4</text>
+</g>
+
+<g filter="url(#shadow)">
+  <rect x="450" y="140" width="300" height="520" rx="30" fill="#ffffff" stroke="#dce6e9"/>
+  <rect x="466" y="156" width="268" height="488" rx="22" fill="#f7f9fb"/>
+  <rect x="556" y="156" width="88" height="18" rx="0 0 12 12" fill="#19343d"/>
+  <text x="488" y="205" font-family="Arial" font-size="12" fill="#71868e">Tasks</text>
+  <text x="488" y="236" font-family="Arial" font-size="24" font-weight="700" fill="#223b44">Assignments</text>
+  <rect x="488" y="264" width="224" height="76" rx="14" fill="#fff" stroke="#e2eaed"/>
+  <rect x="502" y="282" width="20" height="20" rx="5" fill="none" stroke="#176b87" stroke-width="2"/>
+  <text x="536" y="289" font-family="Arial" font-size="12" font-weight="700" fill="#263f47">Apriori implementation</text>
+  <text x="536" y="308" font-family="Arial" font-size="10" fill="#82959c">Data Mining · Sep 27</text>
+  <rect x="488" y="352" width="224" height="76" rx="14" fill="#fff" stroke="#e2eaed"/>
+  <rect x="502" y="370" width="20" height="20" rx="5" fill="none" stroke="#176b87" stroke-width="2"/>
+  <text x="536" y="377" font-family="Arial" font-size="12" font-weight="700" fill="#263f47">ER diagram submission</text>
+  <text x="536" y="396" font-family="Arial" font-size="10" fill="#82959c">DBMS · Sep 29</text>
+  <rect x="488" y="448" width="224" height="120" rx="14" fill="#fff" stroke="#e2eaed"/>
+  <text x="502" y="477" font-family="Arial" font-size="15" font-weight="700" fill="#263f47">Weekly progress</text>
+  <rect x="502" y="497" width="196" height="9" rx="5" fill="#e7edef"/>
+  <rect x="502" y="497" width="141" height="9" rx="5" fill="#176b87"/>
+  <text x="502" y="530" font-family="Arial" font-size="11" fill="#71868e">8 of 11 study goals completed</text>
+</g>
+
+<g filter="url(#shadow)">
+  <rect x="830" y="140" width="300" height="520" rx="30" fill="#ffffff" stroke="#dce6e9"/>
+  <rect x="846" y="156" width="268" height="488" rx="22" fill="#f7f9fb"/>
+  <rect x="936" y="156" width="88" height="18" rx="0 0 12 12" fill="#19343d"/>
+  <text x="868" y="205" font-family="Arial" font-size="12" fill="#71868e">Insights</text>
+  <text x="868" y="236" font-family="Arial" font-size="24" font-weight="700" fill="#223b44">Attendance</text>
+  <g>
+    <rect x="868" y="264" width="224" height="92" rx="14" fill="#fff" stroke="#e2eaed"/>
+    <text x="882" y="291" font-family="Arial" font-size="12" font-weight="700" fill="#263f47">Data Mining</text><text x="1040" y="293" font-family="Arial" font-size="20" font-weight="700" fill="#27764e">88%</text>
+    <rect x="882" y="314" width="196" height="8" rx="4" fill="#e7edef"/><rect x="882" y="314" width="172" height="8" rx="4" fill="#176b87"/>
+    <text x="882" y="340" font-family="Arial" font-size="10" fill="#71868e">22 / 25 classes</text>
+    <rect x="868" y="368" width="224" height="92" rx="14" fill="#fff" stroke="#e2eaed"/>
+    <text x="882" y="395" font-family="Arial" font-size="12" font-weight="700" fill="#263f47">DBMS</text><text x="1040" y="397" font-family="Arial" font-size="20" font-weight="700" fill="#27764e">83%</text>
+    <rect x="882" y="418" width="196" height="8" rx="4" fill="#e7edef"/><rect x="882" y="418" width="163" height="8" rx="4" fill="#176b87"/>
+    <text x="882" y="444" font-family="Arial" font-size="10" fill="#71868e">20 / 24 classes</text>
+    <rect x="868" y="472" width="224" height="92" rx="14" fill="#fff" stroke="#e2eaed"/>
+    <text x="882" y="499" font-family="Arial" font-size="12" font-weight="700" fill="#263f47">Artificial Intelligence</text><text x="1040" y="501" font-family="Arial" font-size="20" font-weight="700" fill="#b27c27">78%</text>
+    <rect x="882" y="522" width="196" height="8" rx="4" fill="#e7edef"/><rect x="882" y="522" width="153" height="8" rx="4" fill="#176b87"/>
+  </g>
+</g>
+<rect x="932" y="675" width="210" height="30" rx="15" fill="#176b87"/><text x="1037" y="695" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700" fill="#fff">Flutter · Dart · Firebase-ready</text>
+</svg>
