@@ -1,0 +1,17 @@
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.idea/
+.vscode/
+.DS_Store
+*.iml
+android/.gradle/
+android/local.properties
+ios/Pods/
+ios/Flutter/ephemeral/
+.firebase/
+firebase_options.dart
